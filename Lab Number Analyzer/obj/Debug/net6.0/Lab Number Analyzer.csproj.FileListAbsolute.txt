@@ -1,0 +1,14 @@
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\bin\Debug\net6.0\Lab Number Analyzer.exe
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\bin\Debug\net6.0\Lab Number Analyzer.deps.json
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\bin\Debug\net6.0\Lab Number Analyzer.runtimeconfig.json
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\bin\Debug\net6.0\Lab Number Analyzer.dll
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\bin\Debug\net6.0\Lab Number Analyzer.pdb
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.AssemblyInfoInputs.cache
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.AssemblyInfo.cs
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.dll
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\refint\Lab Number Analyzer.dll
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.pdb
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\Lab Number Analyzer.genruntimeconfig.cache
+C:\Users\rzepk\source\repos\Lab Number Analyzer\Lab Number Analyzer\obj\Debug\net6.0\ref\Lab Number Analyzer.dll
